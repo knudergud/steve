@@ -4,6 +4,8 @@ An original, responsive fictional portfolio for Steve Harrington. Built as a sta
 
 The site is in `dist/`. GitHub Actions deploys it to GitHub Pages after each push to `main`.
 
+Live site: https://knudergud.github.io/steve/
+
 ## Local preview
 
 Open `dist/index.html` in a browser, or serve `dist/` with any static file server.
